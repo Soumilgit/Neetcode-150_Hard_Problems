@@ -1,6 +1,6 @@
 Solved problems from Neetcode 150 sheet('Hard' ones).
 # Folder structure :
-Here is the folder structure of the repository :
+Here's the folder structure of the repository :
 ``` 
 .github
 │  └─ FUNDING.yml
